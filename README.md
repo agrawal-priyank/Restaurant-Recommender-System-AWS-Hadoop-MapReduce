@@ -34,6 +34,11 @@ Following are the different analysis performed on the dataset:
 13. [Total and average rating of restaurants by country](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/totalandaverageratingofrestaurantsbycountry)
 14. [Total restaurants by state](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/totalrestaurantsbystate)
 
+# Data Pre-processing and Analytics
+
+[R File](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/R%20Data%20Cleansing)
+[Charts](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/BI%20%26%20Analytics)
+
 # Technologies
 
 Java, R, Hadoop, HDFS, MapReduce, HBase
