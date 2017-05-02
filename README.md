@@ -2,7 +2,7 @@
 
 This is the final project for the course Advanced Hadoop MapReduce Programming (ADBMS). It is a recommending engine to recommend restaurants to users based on the dataset provided by Yelp.
 
-# Project Description
+# Description
 
 1. Developed a content based recommender system that recommends restaurants to the users.
 2. Extracted the data related to restaurants from Yelp academic data-set comprising of multiple data sources.
