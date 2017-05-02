@@ -13,6 +13,7 @@ This is the final project for the course Advanced Hadoop MapReduce Programming (
 7. Calculated the Pearson correlation, Jaccard correlation and Cosine correlation between restaurants to recommend to users.
 8. Performed Bining to split the data source on the basis of a preset value of a column and Bloom filtering to filter restaurants on the basis of cities they are located in.
 9. Deployed the project on 4 AWS EC2 instances comprising of a Namenode, a Secondary Namenode and two Data nodes to achieve scalability, performance and fault tolerant Distributed computing.
+10. Visualized some of the analysis using PowerBi.
 
 # Code Implementaions
 
