@@ -15,7 +15,7 @@ This is the final project for the course Advanced Hadoop MapReduce Programming (
 9. Deployed the project on 4 AWS EC2 instances comprising of a Namenode, a Secondary Namenode and two Data nodes to achieve scalability, performance and fault tolerant Distributed computing.
 10. Visualized some of the analysis using PowerBi.
 
-# Code Implementaions
+# Code Implementations
 
 Following are the different analysis performed on the dataset:
 
