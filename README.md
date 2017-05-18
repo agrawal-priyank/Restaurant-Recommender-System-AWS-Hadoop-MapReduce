@@ -32,7 +32,20 @@
 * [R File]()
 
 ### Data Visualization
-![Average Rating of Restaurants by Cuisine](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/average-rating-of-restaurants-by-cuisine.JPG?raw=true)
+* Total Restaurants by Cuisine
+![](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/total-number-of-restaurants-by-cuisine.JPG?raw=true)
+
+* Top 10 Restaurants
+![](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/top-10-restaurants.JPG?raw=true)
+
+* Average Rating of Restaurants by Cuisine
+![](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/average-rating-of-restaurants-by-cuisine.JPG?raw=true)
+
+* Positive and Negative Review Count of Restaurants
+![](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/positive-negative-review-count-of-restaurants.JPG?raw=true)
+
+* Moving Average of a Restaurant
+![](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/yearly-moving-average-of-a-restaurant.JPG?raw=true)
 
 ### Programming Language
 Java, R
