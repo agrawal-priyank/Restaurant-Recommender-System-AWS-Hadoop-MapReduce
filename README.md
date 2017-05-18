@@ -28,7 +28,7 @@
 13. [Total and average rating of restaurants by country](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/tree/master/RestaurantRecommenderSystem/src/edu/neu/totalandaverageratingofrestaurantsbycountry)
 14. [Total restaurants by state](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/tree/master/RestaurantRecommenderSystem/src/edu/neu/totalrestaurantsbystate)
 
-### Data Pre-processing and cleaning
+### Data Preprocessing and Cleansing
 * [R File]()
 
 ### Data Visualization
@@ -56,7 +56,7 @@ Hadoop, HDFS, MapReduce, HBase
 ### Cloud & Virtualization
 AWS EC2, Ubuntu, VMWare
 
-### Visualization
+### Visualization Tool
 PowerBI
 
 ### Utility Tools
