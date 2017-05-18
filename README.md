@@ -1,9 +1,6 @@
-# Content Based and Personalized Restaurant Recommender System - Yelp Dataset
+## Restaurant Recommendation Enginer - Content Based and Personalized (Yelp Dataset)
 
-This is the final project for the course Advanced Hadoop MapReduce Programming (ADBMS). It is a recommending engine to recommend restaurants to users based on the dataset provided by Yelp.
-
-# Description
-
+### Description
 1. Developed a content based recommender system that recommends restaurants to the users.
 2. Extracted the data related to restaurants from Yelp academic data-set comprising of multiple data sources.
 3. Performed Data pre-processing and cleaning of the data sources in concern for building the recommender system.
@@ -15,10 +12,7 @@ This is the final project for the course Advanced Hadoop MapReduce Programming (
 9. Deployed the project on 4 AWS EC2 instances comprising of a Namenode, a Secondary Namenode and two Data nodes to achieve scalability, performance and fault tolerant Distributed computing.
 10. Visualized some of the analysis using PowerBi.
 
-# Code Implementations
-
-Following are the different analysis performed on the dataset:
-
+### Code
 1. [Average rating and total restaurants by cuisine](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/averageratingandtotalrestaurantsbycuisine)
 2. [Content based recommendation](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/contentbasedrecommendation)
 3. [Elite users based on useful votes](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/eliteusersbasedonusefulvotes)
@@ -34,27 +28,23 @@ Following are the different analysis performed on the dataset:
 13. [Total and average rating of restaurants by country](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/totalandaverageratingofrestaurantsbycountry)
 14. [Total restaurants by state](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/RestaurantRecommenderSystem/src/edu/neu/totalrestaurantsbystate)
 
-# Data Pre-processing and Analytics
+### Data Pre-processing and cleaning
+* [R File]()
 
-1. [R File](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/R%20Data%20Cleansing)
-2. [Charts](https://github.com/agrawal-priyank/AWS-Yelp-Recommender_Hadoop-MapReduce-Project/tree/master/BI%20%26%20Analytics)
+### Data Visualization
+* [Charts]()
 
-# Technologies
+### Programming Language
+Java, R
 
-Java, R, Hadoop, HDFS, MapReduce, HBase
+### Technologies
+Hadoop, HDFS, MapReduce, HBase
 
-# Cloud & Virtualization
-
+### Cloud & Virtualization
 AWS EC2, Ubuntu, VMWare
 
-# Visualization
-
+### Visualization
 PowerBI
 
-# IDE
-
-Eclipse, RStudio 
-
-# Tools
-
+### Utility Tools
 WinSCP, Putty, PuttyGen
