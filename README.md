@@ -32,7 +32,7 @@
 * [R File]()
 
 ### Data Visualization
-* [Charts]()
+![Average Rating of Restaurants by Cuisine](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/blob/master/charts/average-rating-of-restaurants-by-cuisine.JPG?raw=true)
 
 ### Programming Language
 Java, R
