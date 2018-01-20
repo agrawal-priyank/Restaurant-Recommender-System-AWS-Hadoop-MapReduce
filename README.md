@@ -51,5 +51,5 @@ Java, R
 ### Technologies
 Hadoop, HDFS, MapReduce, AWS EC2, Ubuntu
 
-### Utility Tools/IDE
+### Tools/IDE
 Eclipse, RStudio, WinSCP, Putty, PuttyGen, PowerBI
