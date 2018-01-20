@@ -1,16 +1,14 @@
 ## Restaurant Recommendation Enginer - Content Based and Personalized (Yelp Dataset)
 
 ### Description
-1. Developed a content based recommender system that recommends restaurants to the users.
-2. Extracted the data related to restaurants from Yelp academic data-set comprising of multiple data sources.
-3. Performed Data pre-processing and cleaning of the data sources in concern for building the recommender system.
-4. Implemented MapReduce Design patterns like Filtering, Summarization, Data Organization and Join patterns to perform analysis and recommend restaurants.
-5. Performed Sentiment analysis of the reviews about the restaurants given by Yelp users.
-6. Provided results like Top restaurants by country and state, Total restaurants by country and state, Moving Average Rating of the restaurants, Top restaurants by positive reviews, Minimum and Maximum review count of each restaurants, Elite users based on useful votes by them, etc.
-7. Calculated the Pearson correlation, Jaccard correlation and Cosine correlation between restaurants to recommend to users.
-8. Performed Bining to split the data source on the basis of a preset value of a column and Bloom filtering to filter restaurants on the basis of cities they are located in.
-9. Deployed the project on 4 AWS EC2 instances comprising of a Namenode, a Secondary Namenode and two Data nodes to achieve scalability, performance and fault tolerant Distributed computing.
-10. Visualized some of the analysis using PowerBi.
+* Developed a content based recommender that recommends restaurants to the users.
+* Extracted, pre-processed, and cleaned the data related to restaurants from Yelp academic dataset.
+* Implemented mapreduce design patterns like filtering, summarization, data organization, and join patterns to perform analysis such as top restaurants by country and state, total restaurants by country and state, moving average rating of restaurants, top restaurants by positive reviews, minimum and maximum review count of each restaurants, etc.
+* Performed sentiment analysis of the reviews about the restaurants given by Yelp users.
+* Calculated the pearson correlation, jaccard correlation and cosine correlation between restaurants to recommend to users.
+* Performed bining to split the data source on the basis of a preset value of a column and bloom filtering to filter the restaurants on basis of cities they are located in.
+* Deployed the project on AWS EC2 with 4 instances comprising of a namenode, a secondary namenode and two data nodes to achieve high scalability and performance.
+* Visualized the analysis in PowerBI.
 
 ### Code
 1. [Average rating and total restaurants by cuisine](https://github.com/agrawal-priyank/Restaurant-Recommender-System-AWS-Hadoop-MapReduce/tree/master/RestaurantRecommenderSystem/src/edu/neu/averageratingandtotalrestaurantsbycuisine)
@@ -51,13 +49,7 @@
 Java, R
 
 ### Technologies
-Hadoop, HDFS, MapReduce, HBase
+Hadoop, HDFS, MapReduce, AWS EC2, Ubuntu
 
-### Cloud & Virtualization
-AWS EC2, Ubuntu, VMWare
-
-### Visualization Tool
-PowerBI
-
-### Utility Tools
-WinSCP, Putty, PuttyGen
+### Utility Tools/IDE
+Eclipse, RStudio, WinSCP, Putty, PuttyGen, PowerBI
